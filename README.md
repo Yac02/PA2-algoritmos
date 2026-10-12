@@ -1,7 +1,7 @@
 # README — Evaluación PA2
 
 > **Curso:** ALGORITMO Y ESTRUCTURA DE DATOS BASADOS EN INTELIGENCIA ARTIFICIAL  
-> **Código:** 30710  
+> **Código:** 4134.202620  
 > **Evaluación:** PA2  
 > **Equipo:** G4
 
@@ -11,10 +11,9 @@
 | :--- | :--- |
 | **Johann Condor Vargas** | Desarrollo de la Actividad 1 (Fundamentos y representación gráfica de listas enlazadas). |
 | **Jack Stefano Tello Caballero** | Desarrollo de la Actividad 2 (Diseño de algoritmos de recorrido e inserción al inicio, final y después de un nodo). |
-| **Carlos Josue Flores Pareja** | Apoyo técnico en la actividad de mayor complejidad, coordinación del equipo y edición/subida del video de exposición a YouTube. |
 | **Jean Luc Mellet** | Desarrollo de la Actividad 3 (Algoritmos de búsqueda, modificación y eliminación en lista enlazada simple y análisis de eficiencia). |
 | **Marcelo Gabriel García Campoblanco** | Desarrollo de la Actividad 4 (Casos de uso y representación gráfica para listas dobles y circulares). |
-
+| **Carlos Josue Flores Pareja** | Apoyo técnico en la actividad de mayor complejidad, coordinación del equipo y edición/subida del video de exposición a YouTube. |
 
 ## 2. Descripción y objetivo
 
