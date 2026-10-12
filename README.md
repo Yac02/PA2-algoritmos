@@ -33,7 +33,12 @@ Aplicar estructuras lineales dinámicas (listas enlazadas simples, dobles y circ
 *`/diagramas`: Carpeta con las imágenes de las representaciones gráficas de los nodos y las listas de las Actividades 1 y 4.
 * 📄 `README.md`: Documentación principal del repositorio.
 
-## 4. Instrucciones de uso
+## 4. Video de exposición
+Enlace a YouTube: [Inserta el link de tu video aquí]
+
+Nota: En el video, todos los integrantes del equipo participamos con las cámaras prendidas, explicando de manera detallada cómo se construyó la solución del caso y la justificación técnica de las estructuras de listas enlazadas elegidas.
+
+## 5. Instrucciones de uso
 
 ```bash
 # 1. Clonar el repositorio
@@ -45,8 +50,3 @@ cd PA2-algoritmos
 # 3. Compilar y ejecutar los algoritmos (Ejemplo para Java)
 javac codigo/Actividad2.java
 java codigo/Actividad2
-
-## 4. Instrucciones de uso
-Enlace a YouTube: [Inserta el link de tu video aquí]
-
-Nota: En el video, todos los integrantes del equipo participamos con las cámaras prendidas, explicando de manera detallada cómo se construyó la solución del caso y la justificación técnica de las estructuras de listas enlazadas elegidas.
