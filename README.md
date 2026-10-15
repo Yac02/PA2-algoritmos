@@ -33,7 +33,7 @@ Aplicar estructuras lineales dinámicas (listas enlazadas simples, dobles y circ
 * 📄 `README.md`: Documentación principal del repositorio.
 
 ## 4. Video de exposición
-Enlace a YouTube: [Inserta el link de tu video aquí]
+Enlace a YouTube: [https://youtu.be/DM0S13dYIpM?si=9XAn3ebpDhNrhE7l]
 
 Nota: En el video, todos los integrantes del equipo participamos con las cámaras prendidas, explicando de manera detallada cómo se construyó la solución del caso y la justificación técnica de las estructuras de listas enlazadas elegidas.
 
